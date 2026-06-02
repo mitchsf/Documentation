@@ -13,4 +13,7 @@ clock lives in its own repo.
 | WordClock 5 | [WC5-User-Manual-V1.3.pdf](./WC5-User-Manual-V1.3.pdf) — operation |
 | WordClock 5 | [WordClock 5 User Guide.pdf](./WordClock%205%20User%20Guide.pdf) — quick reference |
 | Zev-7 | [Zev-7 Assembly Manual V1.1.pdf](./Zev-7%20Assembly%20Manual%20V1.1.pdf) |
+| Zev-7 family | [Zev-7 Operator Manual.pdf](./Zev-7%20Operator%20Manual.pdf) — operation (covers Zev-7, Zev-7 Mini, Zev-7N, Zev-7N Mini, Metronome) |
 | RingClock + BitClock | [RingClock-BitClock-Manual.pdf](./RingClock-BitClock-Manual.pdf) |
+
+Editable `.docx` sources are kept alongside the PDFs where available.
