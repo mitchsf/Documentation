@@ -11,10 +11,12 @@ clock lives in its own repo.
 | WordClock 1-4 | [WordClock 1-4 Operator Manual.pdf](./WordClock%201-4%20Operator%20Manual.pdf) |
 | WordClock 1-4 | [WordClock 1-4 Assembly Manual.pdf](./WordClock%201-4%20Assembly%20Manual.pdf) — build instructions |
 | WordClock 5 | [WC5-Construction-Manual-V1.2.pdf](./WC5-Construction-Manual-V1.2.pdf) — build instructions |
-| WordClock 5 | [WC5-User-Manual-V1.3.pdf](./WC5-User-Manual-V1.3.pdf) — operation (editable source is V1.2) |
+| WordClock 5 | [WC5-User-Manual-V1.3.pdf](./WC5-User-Manual-V1.3.pdf) — operation |
 | WordClock 5 | [WordClock 5 User Guide.pdf](./WordClock%205%20User%20Guide.pdf) — quick reference |
 | Zev-7 | [Zev-7 Assembly Manual.pdf](./Zev-7%20Assembly%20Manual.pdf) |
 | Zev-7 family | [Zev-7 Operator Manual.pdf](./Zev-7%20Operator%20Manual.pdf) — operation (covers Zev-7, Zev-7 Mini, Zev-7N, Zev-7N Mini, Metronome) |
 | RingClock + BitClock | [RingClock-BitClock-Manual.pdf](./RingClock-BitClock-Manual.pdf) |
 
-Editable `.docx` sources are kept alongside the PDFs where available.
+Editable `.docx` sources are kept alongside the PDFs where available. The WC5
+Construction and User manual `.docx` sources are too large for GitHub (190 MB /
+79 MB of embedded images) and are kept locally only, so those two are PDF-only here.
