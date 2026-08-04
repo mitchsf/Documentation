@@ -1,6 +1,6 @@
 # Documentation
 
-User manuals and guides for mitchsf clock projects. Firmware lives at
+User manuals and guides for mitchsf clock and time-server projects. Firmware lives at
 [mitchsf/Firmware](https://github.com/mitchsf/Firmware); source for each
 clock lives in its own repo.
 
@@ -16,6 +16,8 @@ clock lives in its own repo.
 | Zev-7 | [Zev-7 Assembly Manual.pdf](./Zev-7%20Assembly%20Manual.pdf) |
 | Zev-7 family | [Zev-7 Operator Manual.pdf](./Zev-7%20Operator%20Manual.pdf) — operation (covers Zev-7, Zev-7 Mini, Zev-7N, Zev-7N Mini, Metronome) |
 | RingClock + BitClock | [RingClock-BitClock-Manual.pdf](./RingClock-BitClock-Manual.pdf) |
+| InfoServer | [InfoServer Operator Manual.pdf](./InfoServer%20Operator%20Manual.pdf) — operation |
+| InfoServer | [InfoServer Assembly Manual.pdf](./InfoServer%20Assembly%20Manual.pdf) — build instructions |
 
 Editable `.docx` sources are kept alongside the PDFs where available. The WC5
 Construction and User manual `.docx` sources are too large for GitHub (190 MB /
