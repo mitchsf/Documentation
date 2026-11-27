@@ -1,0 +1,6 @@
+# Local working copies made before a manual edit
+* BACKUP *.docx
+
+# Word lock / temp files
+~$*
+*.tmp
